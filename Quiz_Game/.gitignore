@@ -1,7 +1,7 @@
 # Ignoruj środowisko wirtualne (biblioteki)
-Quiz_Game/.venv/
-Quiz_Game/.idea/
+.venv/
+.idea/
 
 # Ignoruj pliki tymczasowe Pythona
-Quiz_Game/__pycache__/
-Quiz_Game/*.pyc
+__pycache__/
+*.pyc
