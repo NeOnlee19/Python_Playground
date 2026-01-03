@@ -1,0 +1,7 @@
+# Ignoruj środowisko wirtualne (biblioteki)
+.venv/
+.idea/
+
+# Ignoruj pliki tymczasowe Pythona
+__pycache__/
+*.pyc
